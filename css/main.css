@@ -1,0 +1,53 @@
+header
+    {
+        height: 156px;
+        width: auto;
+        background-color: rgb(64, 131, 170);
+    }
+
+.logo
+    {
+        float: left;
+        background :rgb(119, 71, 71);
+        padding: 0px;
+        border: 10px;
+        border-radius:20%
+        
+    }
+
+/* div.head 
+    {
+        height: 150px;
+        width: auto;
+        background-color: rgb(25, 182, 202);
+    } */
+
+    div.h1 
+        {
+            height: 130px;
+        }
+
+h1
+    {
+        padding: 400px;
+        border: 80px;
+        display: inline;
+    }
+
+li
+    {
+        text-decoration: none;
+        list-style: none;
+        line-height: 20px;
+        float: left;
+        height: 20px;
+        width: 80px;
+    }
+
+.menu ul
+    {
+        margin: 0px;
+        height: 40px;
+        width: 400px;
+        float: right;
+    }
